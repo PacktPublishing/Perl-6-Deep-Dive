@@ -5,8 +5,6 @@ Perl is a family of high-level, general-purpose, interpreted, dynamic programmin
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-All the code files are present in their respective code folders.
-
 The code will look like the following:
 ```
 my $a = 10;
